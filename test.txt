@@ -1,2 +1,3 @@
 Hello! Welcome to GitHub, and hope you to learn the best.
 and have a nice day :)
+GitHub is a distributed source controlling system. 
